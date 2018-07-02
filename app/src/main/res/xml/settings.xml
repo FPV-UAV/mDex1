@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+ 
+    <PreferenceCategory android:title="@string/setting_title" >
+        <EditTextPreference
+                android:title="@string/port_number"
+                android:summary="@string/port_number_summary"
+                android:key="portNumber"
+                android:inputType="number"
+                android:defaultValue="50005"
+        />
+
+        <EditTextPreference
+                android:title="@string/uploader_name"
+                android:summary="@string/uploader_name_summary"
+                android:key="machineName"
+                android:inputType="text"
+                android:defaultValue="mDex1"
+        />
+
+        <EditTextPreference
+                android:title="@string/transmitter_id"
+                android:summary="@string/transmitter_id_summary"
+                android:key="transmitter_id"
+                android:inputType="text"
+                android:defaultValue="6ABW4"
+        />
+
+        </PreferenceCategory>
+</PreferenceScreen>

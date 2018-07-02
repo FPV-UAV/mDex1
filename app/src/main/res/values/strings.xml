@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">mDex</string>
+    <string name="title_section1">mDex Connect</string>
+    <string name="title_section3">G4 Connect</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example"></string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="recUSBText1">Urządzenie USB:</string>
+    <string name="SocketDebug">SocketDebug</string>
+    <string name="recUSBText2">Data View</string>
+    <string name="recUSBText3">Log View</string>
+    <string name="UsbDeviceName">Disconnected</string>
+    <string name="dataView"></string>
+    <string name="killMe">Stop Reading</string>
+    <string name="notification_ReceiverAttached">notification_ReceiverAttached</string>
+    <string name="notification_DeviceMessage">notification_DeviceMessage</string>
+    <string name="title_activity_usb_attach_workaround">UsbAttachWorkaroundActivity</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="setting_title">Ustawienia komunikacji</string>
+    <string name="port_number">Numer portu</string>
+    <string name="port_number_summary">Ustaw numer portu tcp do komunikacji</string>
+
+    <string name="uploader_name">Nazwa systemu</string>
+    <string name="uploader_name_summary">Unikalna nazwa tego systemu</string>
+
+    <string name="transmitter_id">ID G4</string>
+    <string name="transmitter_id_summary">Numer zapisany z tyłu nadajnika G4</string>
+
+</resources>
